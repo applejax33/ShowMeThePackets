@@ -1,3 +1,5 @@
+# Legal Warning: Use this script only in authorized environments, as it can interfere with normal network operations.
+
 import sys
 import random
 import time
